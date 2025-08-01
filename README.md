@@ -9,7 +9,7 @@ This Tableau dashboard visualizes key insights from the Olympics dataset, such a
 - Medal and athlete trends by age
 - Year-wise filtering for dynamic insights
 
-### 🖼️ Sample Screenshot:
+### 🖼️ Dashboard Preview:
 ![Olympics Dashboard](./Screenshot%202025-08-01%20190434.png)
 
 
