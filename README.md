@@ -10,7 +10,7 @@ This Tableau dashboard visualizes key insights from the Olympics dataset, such a
 - Year-wise filtering for dynamic insights
 
 ### 🖼️ Sample Screenshot:
-![Olympics Dashboard](./Screenshot%202025-08-01%20190434.png)
+![Olympics Dashboard](Screenshot%202025-08-01%20190434.png)
 
 ### 🛠 Tools Used:
 - Tableau Public
