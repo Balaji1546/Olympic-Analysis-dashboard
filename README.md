@@ -1,4 +1,4 @@
-# Task 4 Elevate Labs Intern 
+
 
 ## 🏅 Olympics Analysis Dashboard
 
